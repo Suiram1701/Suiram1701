@@ -1,6 +1,11 @@
 # 💫 About Me:
-I'am a student from Germany and I'am very interested in software development and hardware stuff. I'am alway open and interested to learn new stuff and technologies.<br>Most of my repositories are just for practacing my knowledge and skills in different topics. I like to do backend development because I'am not that good in designing.
+I'am a student from Germany and I'am very interested in software development, hardware stuff and genelly how computers work and run code work. I'am alway open and interested to learn new things and technologies.
 
+I more a fan of strongly typed languages like C, C# or TypeScript and would rather do without interpretet languages until it's nesecarry for example to use JavaScript for web development. Most of my repositories are just for practacing my knowledge and skills in different topics.
+
+## Currently mainly working on:
+- [SchulCloud](https://github.com/Suiram1701/SchulCloud)
+- [W65C02](https://github.com/Suiram1701/W65C02)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/914088677070766113) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Suiram2265) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20339558) 
