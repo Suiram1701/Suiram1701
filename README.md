@@ -4,11 +4,12 @@ I'am a student from Germany and I'am very interested in software development, ho
 I more a fan of strongly typed languages like C, C# or TypeScript and would rather do without interpretet languages until it's nesecarry for example to use JavaScript for web development. Most of my repositories are just for practacing my knowledge and skills in different topics.
 
 ## Currently mainly working on:
+- [OpenWrt port for FRITZ!Box 7272](https://github.com/Suiram1701/openwrt)
 - [WerwolfDotnet](https://github.com/Suiram1701/WerwolfDotnet)
-- [SchulCloud](https://github.com/Suiram1701/SchulCloud)
-- [W65C02](https://github.com/Suiram1701/W65C02) (not very much)
+- [SchulCloud](https://github.com/Suiram1701/SchulCloud) (not very much)
+- [W65C02](https://github.com/Suiram1701/W65C02) (also not much)
 
-Some of my applications I even host on my own server and use them. A framework I currently look into is Svelte(Kit) to use it as a frontend framework (I still use ASP.NET Core on the backend).
+Some of my applications I even host on my own server and use them. A framework I currently look into is Svelte(Kit) to use it as a frontend framework (I still use ASP.NET Core on the backend) and looking forward to learn Go and maybe Rust.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/914088677070766113) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Suiram2265) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20339558) 
